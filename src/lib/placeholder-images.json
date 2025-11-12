@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-landing",
+      "description": "A stylish modern salon interior",
+      "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzYWxvbiUyMGludGVyaW9yfGVufDB8fHx8MTc2Mjg1NjI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salon interior"
+    },
+    {
+      "id": "haircut-style",
+      "description": "A person getting a stylish haircut",
+      "imageUrl": "https://images.unsplash.com/photo-1599387737838-660b75526801?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYWlyY3V0JTIwc3R5bGV8ZW58MHx8fHwxNzYyOTE5MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "haircut style"
+    },
+    {
+      "id": "hair-coloring",
+      "description": "A vibrant hair coloring process",
+      "imageUrl": "https://images.unsplash.com/photo-1617391654484-2894196c2cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoYWlyJTIwY29sb3J8ZW58MHx8fHwxNzYyOTE5MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hair color"
+    },
+    {
+      "id": "manicure-pedicure",
+      "description": "A relaxing manicure session",
+      "imageUrl": "https://images.unsplash.com/photo-1674383600495-bfa0405f3c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW5pY3VyZSUyMG5haWxzfGVufDB8fHx8MTc2MjgzNjg0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "manicure nails"
+    },
+    {
+      "id": "facial-treatment",
+      "description": "A person receiving a facial treatment",
+      "imageUrl": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmYWNpYWwlMjB0cmVhdG1lbnR8ZW58MHx8fHwxNzYyODY1MzYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "facial treatment"
+    },
+    {
+      "id": "bridal-makeup",
+      "description": "A bride getting her makeup done",
+      "imageUrl": "https://images.unsplash.com/photo-1684868268327-7e5590bcfbd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxicmlkYWwlMjBtYWtldXB8ZW58MHx8fHwxNzYyOTE5MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bridal makeup"
+    }
+  ]
 }
